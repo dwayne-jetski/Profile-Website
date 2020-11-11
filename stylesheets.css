@@ -1,3 +1,13 @@
+.image-size{
+    max-width: 95%;
+    max-height: 95%;
+}
+.index-text{
+    color: #e9e1cc;
+    font-size: 90px;
+    text-align: center;
+}
+
 .index-background-color{
     background-color: #d45079;
 }
