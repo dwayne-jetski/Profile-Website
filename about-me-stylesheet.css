@@ -1,6 +1,6 @@
 
 .about-me-text{
-    color: #2c3552;
+    color: black;
     font-size: 25px;
     text-align: center;
     transition: 2s;
@@ -14,7 +14,7 @@
 .about-me-background-stripe {
     background: #f56a79;
     color: #dcd5d5;
-    clip-path: polygon(0 20%, 100% 0, 100% 80%, 0 100%);
+    clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);
     padding: 10rem 20%;
   }
 
