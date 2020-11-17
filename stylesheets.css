@@ -4,7 +4,7 @@
 }
 
 .index-text{
-    color: 	#dcd5d5;
+    color: 	black;
     font-size: 50px;
     text-align: center;
     transition: 2s;
@@ -14,11 +14,11 @@
     display: inline-block;
 }
 .index-background-color{
-    background-color: #b252a1;
+    background-color: #1aa6b7;
 }
 
 .background-stripe {
-    background: #66a1d2;
+    background: #f56a79;
     color: #dcd5d5;
     clip-path: polygon(0 20%, 100% 0, 100% 80%, 0 100%);
     padding: 10rem 20%;
@@ -35,9 +35,9 @@
 }
 
 .index-button-format{
-    background-color: #b252a1;
+    background-color: #1aa6b7;
     border: none;
-    color: 	#dcd5d5;
+    color: 	black;
     padding: 15px 32px;
     text-align: center;
     text-decoration: wavy; 

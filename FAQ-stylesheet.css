@@ -1,4 +1,4 @@
-.contact-text{
+.faq-text{
     color: #2c3552;
     font-size: 25px;
     text-align: center;
@@ -6,19 +6,19 @@
 }
 
 
-.contact-background-color{
-    background-color: #f56a79;
+.faq-background-color{
+    background-color: #1aa6b7;
 }
 
-.contact-background-stripe {
-    background: #1aa6b7;
+.faq-background-stripe {
+    background: #f56a79;
     color: #dcd5d5;
-    clip-path: polygon(0 20%, 100% 0, 100% 80%, 0 100%);
+    clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
     padding: 10rem 20%;
   }
 
-.contact-button-format{
-    background-color:#f56a79;
+.faq-button-format{
+    background-color:#1aa6b7;
     border: none;
     color: 	black;
     padding: 15px 32px;
@@ -30,4 +30,8 @@
     top: 50%;
     left: 50%;
     
+}
+
+.my-funciton{
+    document.getElementById("panel").style.display= "block";
 }
